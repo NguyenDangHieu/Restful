@@ -257,6 +257,7 @@
       <DependentUpon>DataContext.edmx</DependentUpon>
     </Content>
     <None Include="Properties\PublishProfiles\registry.hub.docker.com_0333115144.pubxml" />
+    <Content Include="README.MD" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
