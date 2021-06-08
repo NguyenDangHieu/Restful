@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  restful:
+    image: ${DOCKER_REGISTRY-}restful
+    build:
+      context: .
+      dockerfile: Dockerfile
